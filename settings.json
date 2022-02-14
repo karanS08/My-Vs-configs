@@ -1,0 +1,184 @@
+{
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.ignoreSelection": true,
+    "editor.fontSize": 15,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.mouseWheelZoom": true,
+    "code-runner.runInTerminal": true,
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "tabnine.experimentalAutoImports": true,
+    "discord.removeDetails": true,
+    "kite.showWelcomeNotificationOnStartup": false,
+    "kite.codefinder.enableLineDecoration": true,
+    "[c]": {
+        "editor.defaultFormatter": "ms-vscode.cpptools"
+    },
+    "terminal.integrated.gpuAcceleration": "off",
+    "vscode_vibrancy.opacity": -100,
+    "window.title": "${appName}",
+    "terminal.integrated.defaultProfile.windows": "Ubuntu (WSL)",
+    "java.help.firstView": "gettingStarted",
+    "gitlens.advanced.messages": {
+        "suppressGitMissingWarning": true
+    },
+   
+    // "vscode_vibrancy.type": "ultra-dark",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.inlineSuggest.enabled": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "github.copilot.enable": {
+        "*": true,
+        "yaml": false,
+        "plaintext": true,
+        "markdown": false
+  
+    
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Visual Studio Dark - C++",
+    "materialTheme.accent": "Yellow",
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#1d1f21",
+        "foreground": "#b9b2b2",
+        "selection.background": "#030c03",
+        "editor.background": "#1d1f21",
+        "descriptionForeground": "#140606",
+        "sideBar.background":"#1f2124",
+        "sideBar.foreground":"#e7e2e2",
+        "sideBarSectionHeader.background":"#2bbc8a7f",
+        "sideBarSectionHeader.foreground":"#faeeee",
+        "sideBarTitle.foreground":"#dbd2d2",
+        "sideBarSectionHeader.border":"#2bbc8a7f",
+        "sideBarSectionHeader.dropBackground":"#2bbc8a7f",
+        "sideBarSectionHeader.dropBackgroundStrong":"#2bbc8a7f",
+        "list.activeSelectionBackground":"#6f66661f",
+        "list.activeSelectionForeground":"#c7b9b9",
+        "list.inactiveSelectionBackground":"#6f79752d",
+        "list.inactiveSelectionForeground":"#dbd2d2",
+        "list.focusBackground":"#2bbc8a7f",
+        "list.focusForeground":"#dbd2d2",
+        "list.highlightForeground":"#666661",
+        "list.hoverBackground":"#2bbc893a",
+        "list.hoverForeground":"#dbd2d2",
+        "list.inactiveFocusBackground":"#2bbc8a7f",
+        "editor.foreground":"#dbd2d2",
+        "editor.selectionBackground":"#cebebe3f",
+        "editor.selectionForeground":"#dbd2d2",
+        "editor.lineHighlightBackground":"#282c2b52",
+        "editor.lineHighlightBorder":"#282c2b52",
+        "editor.rangeHighlightBackground":"#282c2b52",
+        "editor.rangeHighlightBorder":"#282c2b52",
+        "editor.wordHighlightBackground":"#282c2b52",
+        "editor.wordHighlightBorder":"#282c2b52",
+        "editor.wordHighlightStrongBackground":"#282c2b52",
+        "editor.wordHighlightStrongBorder":"#282c2b52",
+        "editor.findMatchBackground":"#282c2b52",
+        "editor.findMatchHighlightBackground":"#282c2b52",
+        "editor.findRangeHighlightBackground":"#2bbc8a7f",
+        "editor.findRangeHighlightBorder":"#2bbc8a7f",
+        "editor.findMatchBorder":"#565e5b",
+        "editor.findRangeBorder":"#2bbc8a7f",
+        "minimap.findMatchHighlight":"#666666",
+        "minimap.selectionHighlight":"#6f66661f",
+        "minimap.errorHighlight":"#dbd2d2",
+        "minimap.warningHighlight":"#dbd2d2",
+        "minimap.errorHighlightBorder":"#dbd2d2",
+        "minimap.warningHighlightBorder":"#dbd2d2",
+        "statusBar.background":"#1d1f21",
+        "statusBar.foreground":"#dbd2d2",
+        "statusBar.border":"#282c2b52", 
+        "statusBar.debuggingBackground":"#2bbc8a7f",
+        "statusBar.debuggingForeground":"#dbd2d2",
+        "statusBar.debuggingBorder":"#2bbc8a7f",
+        "statusBar.noFolderBackground":"#2bbc8a7f",
+        "statusBar.noFolderForeground":"#dbd2d2",
+        "statusBar.noFolderBorder":"#2bbc8a7f",
+        "statusBar.hasActivityBackground":"#2bbc8a7f",
+        "statusBar.hasActivityForeground":"#dbd2d2",
+        "statusBar.hasActivityBorder":"#2bbc8a7f",
+        "statusBar.remoteBackground":"#2bbc8a7f",
+        "statusBar.remoteForeground":"#dbd2d2",
+        "statusBar.remoteBorder":"#2bbc8a7f",
+        "statusBar.symbolBackground":"#2bbc8a7f",
+        "statusBar.symbolForeground":"#dbd2d2",
+        "statusBar.symbolBorder":"#2bbc8a7f",
+        "statusBar.progressBackground":"#2bbc8a7f",
+        "statusBar.progressForeground":"#dbd2d2",
+        "statusBar.progressBorder":"#2bbc8a7f",
+        "titleBar.activeBackground":"#1d1f21",
+        "titleBar.activeForeground":"#dbd2d2",
+        "titleBar.inactiveBackground":"#1d1f21",
+        "titleBar.inactiveForeground":"#dbd2d2",
+        "titleBar.border":"#282c2b52",
+        "titleBar.activeBorder":"#282c2b52",
+        "titleBar.inactiveBorder":"#282c2b52",
+        "tab.activeBackground":"#1d1f21",
+        "tab.activeForeground":"#dbd2d2",
+        "tab.border":"#282c2b52",
+        "tab.inactiveBackground":"#1d1f21",
+        "tab.inactiveForeground":"#dbd2d2",
+        "tab.unfocusedActiveForeground":"#dbd2d2",
+        "tab.unfocusedActiveBorder":"#282c2b52",
+        "tab.unfocusedInactiveForeground":"#dbd2d2",
+        "tab.unfocusedInactiveBorder":"#282c2b52",
+        "tab.hoverBackground":"#1d1f21",
+        "tab.hoverForeground":"#dbd2d2",
+        "tab.unfocusedHoverForeground":"#dbd2d2",
+
+        
+
+        
+
+    },
+    "codesnap.shutterAction": "copy",
+    "codesnap.backgroundColor": "#1d1f217f",
+    "codesnap.boxShadow": "rgba(0, 0, 0, 0)",
+    "codesnap.containerPadding": "0",
+    "[css]": {
+        "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "numso.prettier-standard-vscode"
+    },
+    "workbench.editor.untitled.hint": "hidden",
+    "oracledevtools.bookmarkFileFolder": "C:\\Users\\Ye8i\\Oracle\\oracle.oracledevtools",
+    "oracledevtools.download.otherFolder": "C:\\Users\\Ye8i\\downloads",
+    "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\Ye8i\\Oracle\\network\\admin",
+    "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\Ye8i\\Oracle\\network\\admin",
+    "code-runner.terminalRoot": "/mnt/",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ],
+            "args": [],
+            "icon": "terminal-cmd"
+        },
+        "Git Bash": {
+            "source": "Git Bash"
+        },
+        "Ubuntu (WSL)": {
+            "path": "C:\\WINDOWS\\System32\\wsl.exe",
+            "args": [
+                "-d",
+                "Ubuntu"
+            ]
+        }
+    },
+    "files.associations": {
+        "*.rmd": "markdown"
+    }
+}
