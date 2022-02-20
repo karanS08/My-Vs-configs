@@ -180,5 +180,8 @@
     },
     "files.associations": {
         "*.rmd": "markdown"
-    }
+    },
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.CustomBrowser": "firefox",
+    "liveServer.settings.donotShowInfoMsg": true
 }
